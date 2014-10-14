@@ -3,5 +3,5 @@ require 'sinatra'
 require 'rack-rewrite'
 
 # APP
-require './server'
+require './app'
 run Sinatra::Application
