@@ -4,7 +4,7 @@ GEM
     foreman (0.87.2)
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.3)
+    rack (2.2.4)
     rack-protection (2.1.0)
       rack
     rack-rewrite (1.5.1)
